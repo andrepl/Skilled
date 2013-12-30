@@ -1,0 +1,7 @@
+name: ${project.name}
+authors: ${project.authors}
+version: ${project.version}
+main: ${project.main}
+commands:
+  skill:
+    usage: "/skill [subcommand] [args]"
